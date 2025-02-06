@@ -21,3 +21,6 @@ Ingame chat self bot to fish and gamble
 - add `bind l "exec message"` to your autoexec (this can be changed by replacing the key in the fish.py file where the comments are)
 - replace the path to your csgo\cfg folder in the main.py file
 - put `-condebug -conclearlog` in your CS2 launch option
+
+### PS
+alot of the code is from https://github.com/Pandaptable/galls but i couldnt get theirs to work so i yoinked it and added the balance and gamble stuff
